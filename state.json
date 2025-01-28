@@ -1,0 +1,203 @@
+{
+  "cookies": [
+    {
+      "name": "renderid",
+      "value": "publisher2",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "li_sugr",
+      "value": "06212538-e348-4238-b96f-a43410d4dd6f",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1745249895.583633,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&30cd11f2-1c24-490d-8520-71e4a37b310a\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1769009896.583785,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=OGST01:s=O:r=O:a=O:p=O:g=3491:u=1:x=1:i=1737473891:t=1737560291:v=2:sig=AQEfWA4am0NT1RxlJuCClwJZhWnCyPtO\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1737560295.597269,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQL0GfyJAk9SLgAAAZSJg53kynqiCn6EXruc2XZu9Y8nQ2dGwRcEXP_EaG3QAXCmoJ6TdnojvIHGww",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1740065894.840597,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQJwA6ZLJPVWCAAAAZSJg53lwjeySbgUjyOUgTAZS_6n2DZySQEBoAyPfXCAp14rfsAUqN5CjYZ7lnPWGm6NzQ",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1740065894.840632,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&20250121153812ddd88d4c-9903-4157-8c8f-ed3f756958ecAQFDw5RZ5Z4wuHjoNVQ9ExU2DdztC2D9\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1769009895.34055,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "FisHgiKNr1fatzsu_caG90MTCybaDPwRp2KUoPBb04o-1737473892-1.0.1.1-Vrcr7dmeONlxM...iatDo2jDG6B0tRohCEPtrI4Yb69XvBSa64LkYvTC3EwfGq_6_hYVGrwcIy4wl5jwLbMwew",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1737475695.340674,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2025-01-21T15:38:16.525Z",
+      "domain": ".www.epam.com",
+      "path": "/",
+      "expires": 1769009896,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1349401369.1737473894",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1772033896.851589,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_EYGYLWSTX2",
+      "value": "GS1.1.1737473894.1.1.1737473896.60.0.0",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1772033896.595691,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Tue+Jan+21+2025+19%3A38%3A16+GMT%2B0400+(Georgia+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4e2fa97e-ef02-40d2-8f3d-7f672d816cd8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1",
+      "domain": ".www.epam.com",
+      "path": "/",
+      "expires": 1769009896,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "61WbOQPgtXnhQodFqVfWyDQi8YRCYzH2yiabhD1sLcU-1737473893-1.0.1.1-t.SOC25wBTj.GRX.Df0wPqvXhyNvnItybxcD59Di37LLdFFisnEUF2DLmm.0yWyyN1p.37AzlOmbLzFApYS0Gg",
+      "domain": ".techtarget.com",
+      "path": "/",
+      "expires": 1737475696.691276,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "ie3obp6ppiyJzm4SR.IJ3AJlUX3.etZyaDIhv5gaAZw-1737473893-1.0.1.1-iiqvUyzDkHhkK7FnODp.fJZWDpUy8kSN5krk1IAMRRWQ4gRo3QEaYbaJulT3cOpmY.0eeLyMRqejOZTRxpIC1g",
+      "domain": ".indeed.com",
+      "path": "/",
+      "expires": 1737475696.698748,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "test_cookie",
+      "value": "CheckForPermission",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1737474796.816905,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_W1T3XZ3Z92",
+      "value": "GS1.1.1737473896.1.0.1737473896.0.0.0",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1772033896.850664,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1737473897252.128369270931206414",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1745249897,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_mkto_trk",
+      "value": "id:030-GZP-996&token:_mch-epam.com-d2f62d141dbb4a58612e04667d06e145",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1772033897.298702,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.epam.com",
+      "localStorage": [
+        {
+          "name": "ContextHubPersistence",
+          "value": "{\"store\":{\"surferinfo\":{\"display\":{\"resolution\":{\"width\":1280,\"height\":720},\"devicePixelRatio\":1,\"colorDepth\":24,\"nrOfColors\":16777216,\"pixelsPerInch\":0,\"orientation\":{\"mode\":\"landscape\",\"direction\":\"normal\"}},\"window\":{\"dimension\":{\"width\":1280,\"height\":720},\"percentageUsage\":1},\"browser\":{\"version\":\"537.36\",\"family\":\"Safari\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/131.0.6778.33 Safari/537.36\"},\"device\":{\"category\":\"Desktop\",\"type\":\"windows\"},\"isMobile\":true,\"os\":{\"name\":\"Windows\",\"version\":\"10\"},\"year\":2025,\"month\":1,\"day\":21,\"hour\":19,\"minutes\":38},\"emulators\":{\"devices\":[{\"id\":\"native\",\"title\":\"Native\",\"type\":\"screen\",\"width\":1280,\"height\":720,\"orientation\":\"Landscape\",\"platform\":\"Windows\",\"platformVersion\":\"10\",\"canRotate\":false},{\"id\":\"ipad\",\"title\":\"iPad\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"5.1.1\",\"width\":768,\"height\":1024,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":1},{\"id\":\"ipad-2\",\"title\":\"iPad 2\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":768,\"height\":1024,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":1},{\"id\":\"ipad-3\",\"title\":\"iPad 3 / 4 / Air\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":1536,\"height\":2048,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-4\",\"title\":\"iPhone 4\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"7.1.2\",\"width\":640,\"height\":960,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-5\",\"title\":\"iPhone 5\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":640,\"height\":1136,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-6\",\"title\":\"iPhone 6\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":750,\"height\":1334,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-6-plus\",\"title\":\"iPhone 6 Plus\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":1080,\"height\":1920,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":3},{\"id\":\"galaxy-s4\",\"title\":\"Samsung Galaxy S4\",\"type\":\"mobile\",\"platform\":\"Android\",\"platformVersion\":\"4.4.2 KitKat\",\"width\":1080,\"height\":1920,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":3}],\"currentDeviceId\":\"native\",\"orientations\":[{\"id\":\"landscape\",\"title\":\"Landscape\"},{\"id\":\"portrait\",\"title\":\"Portrait\"}],\"currentDevice\":{\"id\":\"native\",\"title\":\"Native\",\"type\":\"screen\",\"width\":1280,\"height\":720,\"orientation\":\"Landscape\",\"platform\":\"Windows\",\"platformVersion\":\"10\",\"canRotate\":false}},\"pagedata\":{\"title\":\"EPAM | Software Engineering & Product Development Services  \",\"description\":\"Since 1993, we've helped customers digitally transform their businesses through our unique blend of world-class software engineering, design and consulting services.\",\"path\":\"/content/epam/en\",\"hits\":0,\"navTitle\":\"Home\",\"tags\":\"\",\"sitesection\":\"en\",\"_\":{\"raw-response\":{}}},\"segmentation\":{\"_\":{\"url\":\"https://www.epam.com/conf/epam/settings/wcm/segments.seg.js\"},\"segments\":[{\"label\":\"ge-gdpr\",\"link\":\"/conf/epam/settings/wcm/segments/ge-gdpr.html\",\"path\":\"/conf/epam/settings/wcm/segments/ge-gdpr\"},{\"label\":\"location-detected\",\"link\":\"/conf/epam/settings/wcm/segments/location-detected.html\",\"path\":\"/conf/epam/settings/wcm/segments/location-detected\"}],\"summary\":\"2 segments\"},\"geolocation\":{\"_\":{\"url\":\"https://www.epam.com/services/location/geolocation\",\"response-time\":1737473892197,\"raw-response\":{}},\"location\":{\"continent\":\"Asia\",\"continentCode\":\"AS\",\"country\":\"Georgia\",\"countryCode\":\"GE\",\"region\":\"Tbilisi\",\"regionCode\":\"TB\",\"city\":\"Tbilisi\",\"postalCode\":\"\",\"latitude\":\"41.69590\",\"longitude\":\"44.83200\"}},\"epam_gdpr\":{\"gdprLocation\":{\"countryCode\":\"GE\"}},\"job_search_country\":{\"jobLocation\":{\"countryName\":null}}}}"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1737473897226"
+        }
+      ]
+    }
+  ]
+}
