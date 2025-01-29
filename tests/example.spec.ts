@@ -69,6 +69,10 @@ test('get started link', async ({ page }) => {
 // https://playwright.dev/docs/mock
 // https://playwright.dev/docs/emulation
 // https://playwright.dev/docs/input
+// https://playwright.dev/docs/api/class-keyboard
+// https://playwright.dev/docs/api/class-mouse
+// https://playwright.dev/docs/navigations
+// https://playwright.dev/docs/test-annotations#tag-tests
 //
 
 // https://playwright.dev/docs/api/class-page#page-goto 🔥
