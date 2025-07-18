@@ -1,6 +1,8 @@
 import { test, expect } from '@playwright/test';
 
 // npm init playwright@latest
+// if repository is cloned from github, run npm install
+// or npx playwright install in some cases
 // npx playwright test
 // npx playwright test --headed
 // npx playwright test --ui
