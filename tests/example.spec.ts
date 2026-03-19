@@ -12,6 +12,7 @@ import { test, expect } from '@playwright/test';
 // npx playwright test --trace on
 // npx playwright show-report
 // npm playwright test tests/example.spec.ts
+// npx playwright test tests/example.spec.ts --headed --project=chromium --ui
 // DEBUG=* npx playwright test tests/example.spec.ts
 // DEBUG=pw:protocol npx playwright test tests/example.spec.ts
 // DEBUG=pw:protocol DEBUG_FILE=logs.txt npx playwright test tests/example.spec.ts
